@@ -1,0 +1,17 @@
+/* special */
+.special-img span{
+    top: 20px;
+    right: 20px;
+}
+
+.special-list .btn{
+    padding: 8px 20px!important;
+}
+
+.special-img img{
+    transition: all 0.3s ease;
+}
+
+.special-img:hover{
+    transform: scale(1.2);
+}
